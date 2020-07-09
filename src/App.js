@@ -1,15 +1,13 @@
 import React from 'react';
-// eslint-disable-next-line
-import logo from './logo.svg';
 import './App.css';
 import Room from './Room';
 
 function App() {
-  return (
-  <div>
-    <Room></Room>
-  </div>
-  );
+    return ( < div >
+        <
+        Room > < /Room>  <
+        /div>
+    );
 }
 
 export default App;
